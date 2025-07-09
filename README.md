@@ -10,3 +10,9 @@
 - ⚡ Fun fact: **I can speak 7 languages and love mastering new skills.**  
 
 📌 **Let's connect, build, and innovate!**  
+
+- Languages: Python, JavaScript, TypeScript, C++, Java  
+- Frameworks: React, Node.js, Express.js, Next.js, Tailwind CSS, Bootstrap  
+- Tools: Git, GitHub, MongoDB, MySQL, REST APIs, Postman  
+- AI/ML: scikit-learn, pandas, matplotlib, Deep Learning, NLP, spaCy  
+- Soft Skills: Content Writing, Public Speaking, Teaching, SEO
