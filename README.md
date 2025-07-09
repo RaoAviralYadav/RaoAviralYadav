@@ -1,18 +1,41 @@
-# 👋 Hey, I’m Aviral Vasudev Yadav (@RaoAviralYadav)  
+# 👋 Hey there, I'm Aviral Vasudev Yadav (@RaoAviralYadav)
 
-🚀 **Tech Enthusiast | AI & Cybersecurity | Web & Cloud Developer | Machine Learning**  
+### 🚀 Tech Explorer | AI & Cybersecurity Enthusiast | Full-Stack Web & Cloud Developer | Machine Learning Practitioner  
 
-- 👀 I’m interested in **AI, machine learning, ethical hacking, cloud computing, and building scalable systems.**  
-- 🌱 I’m currently learning **advanced cybersecurity, low-level programming, system design, and deep learning.**  
-- 💞️ I’m looking to collaborate on **open-source AI, web, security, and ML projects.**  
-- 📫 Reach me at **[aviralyadav501@gmail.com]**  
-- 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: **I can speak 7 languages and love mastering new skills.**  
+---
 
-📌 **Let's connect, build, and innovate!**  
+## 🧠 About Me
+I'm a passionate technology enthusiast who loves to build, break, and learn. Whether it's crafting intelligent systems, securing the digital world, or developing scalable web applications, I'm all in. My journey is fueled by curiosity, versatility, and a relentless desire to improve every day.
 
-- Languages: Python, JavaScript, TypeScript, C++, Java  
-- Frameworks: React, Node.js, Express.js, Next.js, Tailwind CSS, Bootstrap  
-- Tools: Git, GitHub, MongoDB, MySQL, REST APIs, Postman  
-- AI/ML: scikit-learn, pandas, matplotlib, Deep Learning, NLP, spaCy  
-- Soft Skills: Content Writing, Public Speaking, Teaching, SEO
+- 👀 **Areas of Interest:** Artificial Intelligence, Machine Learning, Ethical Hacking, Cloud Computing, System Design  
+- 🌱 **Currently Learning:** Advanced Cybersecurity, Low-Level Programming (C, Assembly), Deep Learning, Distributed Systems  
+- 💡 **Collaboration Goals:** Open-source contributions in AI/ML, Full-Stack Web, Security Tools, and Cloud Projects  
+- 🧭 **Fun Fact:** I speak **7 languages**, and I’m always picking up new skills (technical or otherwise!)  
+- 📫 **Reach me:** [aviralyadav501@gmail.com](mailto:aviralyadav501@gmail.com)  
+- 😄 **Pronouns:** He/Him  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+`Python` · `JavaScript` · `TypeScript` · `C` · `Java` · `HTML` · `BASIC`
+
+### 🌐 Web Development
+`React` · `Next.js` · `Node.js` · `Express.js` · `Tailwind CSS` · `Bootstrap`
+
+### 🧪 AI / Machine Learning
+`scikit-learn` · `pandas` · `matplotlib` · `NumPy` · `Deep Learning` · `NLP` · `spaCy`
+
+### ☁️ Tools & Platforms
+`Git` · `GitHub` · `MongoDB` · `MySQL` · `REST APIs` · `Postman` · `MongoDB Atlas`
+
+### 🗣️ Soft Skills
+`Content Writing` · `Public Speaking` · `Teaching` · `SEO & Blogging` · `Team Leadership`
+
+---
+
+## 🌟 Let’s Connect & Build Together!
+
+I'm always up for meaningful conversations, open-source collaboration, or just nerding out on cool tech. If you're working on something impactful or simply want to share ideas, feel free to reach out!
+
