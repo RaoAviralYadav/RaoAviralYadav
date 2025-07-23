@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Aviral Vasudev Yadav (@RaoAviralYadav)
+# 👋 Hey there, I'm Aviral Yadav (@RaoAviralYadav)
 
 ### 🚀 Tech Explorer | AI & Cybersecurity Enthusiast | Full-Stack Web & Cloud Developer | Machine Learning Practitioner  
 
